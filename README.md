@@ -1,6 +1,4 @@
-# Math-Zone
-
-## Math Zone Privacy Policy
+## Privacy Policy
 
 Mustafa Alsheikh built the Math Zone app as a Free app. This SERVICE is provided by Mustafa Alsheikh at no cost and is intended for use as is.
 
